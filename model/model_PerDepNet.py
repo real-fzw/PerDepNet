@@ -1,12 +1,3 @@
-"""
-PCMLNet models for depression detection.
-Some implementations are modified from:
-mamba (https://github.com/state-spaces/mamba),
-RT-DETR (https://github.com/lyuwenyu/RT-DETR),
-video-recognition (https://github.com/kenshohara/video-recognition?tab=readme-ov-file)
-"""
-
-
 import torch
 from torch import nn, einsum
 
